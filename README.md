@@ -4,7 +4,7 @@ O projeto "Time Line" é um site que tem como objetivo exibir e gerenciar linhas
 
 ## Sobre o Projeto
 
-Este repositório serve como espaço inicial para o desenvolvimento do projeto "Time Line". Até o momento, ainda não há arquivos criados, pois estamos preparando o ambiente para o início do desenvolvimento.
+Este repositório serve como espaço inicial para o desenvolvimento do projeto "Time Line". Até o momento, ainda não há arquivos criados, pois estou preparando o ambiente para o início do desenvolvimento.
 
 ## Contribuindo
 
