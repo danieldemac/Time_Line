@@ -16,4 +16,4 @@ Este projeto é distribuído sob a licença [Apache License 2.0](LICENSE), que �
 
 ## Contato
 
-Para questões, sugestões ou qualquer outra informação relacionada ao projeto, sinta-se à vontade para entrar em contato através das issues do GitHub.
+Para questões, sugestões ou qualquer outra informação relacionada ao projeto, sinta-se à vontade para entrar em contato através do meu e-mail <a href="mailto:dm.arantes.cabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>.
