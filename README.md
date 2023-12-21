@@ -1,4 +1,4 @@
-# Time Line
+<h1 align="center"> Time Line</h1>
 
 O projeto "Time Line" é um site que tem como objetivo exibir e gerenciar linhas do tempo de forma visual e interativa.
 
