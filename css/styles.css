@@ -1,0 +1,125 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1a271d; 
+  font-family: 'Open Sans', sans-serif; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  color: #1a271d;
+}
+
+.bodyTimeLine {
+  background-image: url('../images/bg2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.91; 
+}
+
+h1 {
+  padding: 20px;
+  color: #1a271d;
+  background-color: rgb(182, 206, 149);
+  font-weight: 600; 
+  text-align: center;
+}
+h2{
+  background-color: rgb(182, 206, 149);
+}
+h3{
+  background-color: rgb(232, 240, 221);
+  color: #1a271d;
+}
+p{
+  background-color: rgb(232, 240, 221);
+}
+
+#timeline-container {
+  max-width: 90%;
+  margin: 40px auto; 
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); 
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+.timeline-content {
+  border: 3px solid #b9f9a7; /* Bordas originais */
+  border-radius: 5px;
+  padding: 20px;
+  height: 500px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
+}
+
+
+form {
+  margin-top: 40px;
+  text-align: center;
+}
+
+form input[type="text"],
+form textarea,
+form input[type="number"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+form input[type="submit"] {
+  padding: 12px 20px;
+  background-color: rgb(182, 206, 149);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s ease-in-out; 
+}
+
+form input[type="submit"]:hover {
+  background-color: #45a049; 
+}
+
+h4,
+label {
+  background-color:rgb(182, 206, 149);
+  color:  #1a271d;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.add-event form {
+  max-width: 300px; /* Defina o máximo desejado para a largura do formulário */
+  margin: 0 auto;
+  text-align: center;
+}
+
+.add-event form label,
+.add-event form input[type="text"],
+.add-event form textarea,
+.add-event form input[type="number"],
+.add-event form input[type="submit"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.add-event form input[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.add-event h4 {
+  margin-bottom: 15px;
+}

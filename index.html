@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Time Line</title>
+  <link href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css" rel="stylesheet">
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+</head>
+<body class="bodyTimeLine">
+    <div>
+        <h1>Explorando a Linha do Tempo</h1>
+        <p>Crie sua linha do tempo personalizada, incorporando os eventos de sua escolha.</p>   
+    </div>
+   
+    <div id="timeline" class="timeline-content"></div> 
+    <div id="timeline-container">
+    
+      <!-- Formulário para adicionar eventos -->
+      <div class="add-event">
+        <h4>Adicionar Evento</h2>
+        <form id="addEventForm">
+          <label for="eventTitle">Título:</label>
+          <input type="text" id="eventTitle" name="eventTitle" required>
+  
+          <label for="eventDescription">Descrição:</label>
+          <textarea id="eventDescription" name="eventDescription" required></textarea>
+  
+          <label for="eventStartDate">Data de Início (Ano):</label>
+          <input type="number" id="eventStartDate" name="eventStartDate" required>
+  
+          <label for="eventEndDate">Data de Término (Ano):</label>
+          <input type="number" id="eventEndDate" name="eventEndDate" required>
+  
+          <input type="submit" value="Adicionar Evento" onclick="adicionarEvento(); return false;">
+        </form>
+      </div>
+    </div>
+  
+    <script src="js/myscript.js"></script>
+  </body>
+  </html>
