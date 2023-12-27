@@ -1,6 +1,5 @@
-<h1 align="center"> Time Line</h1>
-
-O projeto "Time Line" é um site desenvolvido com o objetivo de exibir e gerenciar linhas do tempo de maneira visual e interativa.
+<h1 align="center"> Linha do Tempo </h1>
+Esse pequeno projeto é um site desenvolvido com o objetivo de exibir e gerenciar linhas do tempo de maneira visual e interativa.
 
 ## Sobre o Projeto
 
