@@ -1,4 +1,4 @@
-<h1 align="center"> Linha do Tempo </h1>
+<h1 align="center"> Linha do Tempo 🕗 </h1>
 Esse pequeno projeto é um site desenvolvido com o objetivo de exibir e gerenciar linhas do tempo de maneira visual e interativa.
 
 ## Sobre o Projeto
